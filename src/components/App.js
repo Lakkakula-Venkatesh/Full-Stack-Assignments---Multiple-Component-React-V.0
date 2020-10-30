@@ -6,8 +6,8 @@ class App extends Component {
 
         return(
             <>
-               <div data="project-name">LinkedIn</div>
-               <div data="project-description">LinkedIn is a business and employment-oriented online service that operates via websites and mobile apps. It is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.</div>
+               <div data-ns-test="project-name">LinkedIn</div>
+               <div data-ns-test="project-description">LinkedIn is a business and employment-oriented online service that operates via websites and mobile apps. It is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.</div>
             </>
         )
     }
